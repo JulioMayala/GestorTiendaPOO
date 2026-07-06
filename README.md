@@ -1,3 +1,15 @@
+# CLI Store Management System 
+
+## About the Project
+A Command-Line Interface (CLI) commercial management system developed through an iterative approach. The project models the complete business logic of a store, managing users (clients and cashiers), a complex inventory, and the lifecycle of purchase tickets. 
+
+This repository stands out for its intensive use of **Object-Oriented Programming (OOP)** and the preliminary architectural design using **UML diagrams**.
+
+## Architecture and Technical Features
+*   **Advanced Inventory Management:** Implemented inheritance to differentiate between standard products, customizable products (with dynamic surcharges), and time-limited services (food and events with expiration dates and preparation periods).
+*   **Business Logic and Pricing:** Integrated algorithms for automatic final price calculation, applying cross-category discounts (MERCH, BOOK, ELECTRONICS, etc.) and personalization surcharges.
+*   **Data Integrity:** Format validations (National ID/DNI, corporate emails, worker IDs) and strict management of ticket states (EMPTY, OPEN, CLOSE).
+
 # La Mejor Tienda UPM 
 
 # E2 Version
