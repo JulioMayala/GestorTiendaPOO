@@ -1,9 +1,8 @@
 # CLI Store Management System 
 
 ## About the Project
-A Command-Line Interface (CLI) commercial management system developed through an iterative approach. The project models the complete business logic of a store, managing users (clients and cashiers), a complex inventory, and the lifecycle of purchase tickets. 
-
-This repository stands out for its intensive use of **Object-Oriented Programming (OOP)** and the preliminary architectural design using **UML diagrams**.
+Commercial Management Software Development (Java, OOP & Architecture)
+Academic project developed iteratively alongside a team of university classmates. We designed the architecture using UML modeling and applied Object-Oriented Programming (OOP) in Java to orchestrate the business logic: employees, clients, advanced inventory, and shopping carts. The system features algorithms for dynamic price calculation, cross-category discounts, and strict data integrity control.
 
 ## Architecture and Technical Features
 *   **Advanced Inventory Management:** Implemented inheritance to differentiate between standard products, customizable products (with dynamic surcharges), and time-limited services (food and events with expiration dates and preparation periods).
